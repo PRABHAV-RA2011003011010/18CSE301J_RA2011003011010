@@ -1,3 +1,23 @@
-h1{
-    color: blueviolet;
+h1,h2,h3{
+    color: rgb(136, 7, 114);
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(197, 149, 189);
+}
+.tableauPlaceholder{
+    
+     border-radius: 25px;
+     
+     position: relative;
+     left: 15%;
+
+
+
+
+
 }
