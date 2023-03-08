@@ -1,5 +1,5 @@
 h1,h2,h3{
-    color: rgb(136, 7, 114);
+    color: rgb(11, 40, 167);
     text-align: center;
 }
 body{
@@ -7,7 +7,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
-    background-color: rgb(197, 149, 189);
+    background-color: rgb(15, 178, 196);
 }
 .tableauPlaceholder{
     
@@ -15,7 +15,11 @@ body{
      
      position: relative;
      left: 15%;
-
+    align-content: center;
+    align-self: center;
+    align-items: end;
+    text-align: center;
+    justify-content: center;
 
 
 
