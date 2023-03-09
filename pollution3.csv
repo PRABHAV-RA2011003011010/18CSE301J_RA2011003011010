@@ -1,0 +1,11 @@
+﻿Country,City,AQIValue,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category
+Brazil,Presidente Dutra,41,Good,1,Good,5,Good,1,Good,41,Good
+Italy,Priolo Gargallo,66,Moderate,1,Good,39,Good,2,Good,66,Moderate
+Poland,Przasnysz,34,Good,1,Good,34,Good,0,Good,20,Good
+France,Punaauia,22,Good,0,Good,22,Good,0,Good,6,Good
+Germany,Puttlingen,62,Moderate,1,Good,35,Good,3,Good,62,Moderate
+Belgium,Puurs,64,Moderate,1,Good,29,Good,7,Good,64,Moderate
+China,Qinzhou,68,Moderate,2,Good,68,Moderate,1,Good,58,Moderate
+Netherlands,Raalte,41,Good,1,Good,24,Good,6,Good,41,Good
+France,Raismes,59,Moderate,1,Good,30,Good,4,Good,59,Moderate
+Italy,Ramacca,55,Moderate,1,Good,47,Good,0,Good,55,Moderate
