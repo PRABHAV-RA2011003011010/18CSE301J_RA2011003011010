@@ -1,3 +1,8 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+get_ipython().run_line_magic('matplotlib', 'inline')
+from matplotlib import style
 import os
 os.chdir(r'C:\xampp\htdocs\data')
 car_sales = pd.read_csv('pollution3.csv')
